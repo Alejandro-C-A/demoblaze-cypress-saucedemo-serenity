@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node/Cypress
+node_modules/
+cypress/reports/
+
+# Java/Serenity
+target/
+build/
